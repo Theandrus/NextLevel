@@ -1,0 +1,316 @@
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.exe
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.deps.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\App.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.g.resources
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\refint\Presentation.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ref\Presentation.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BLL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BLL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\DAL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddCategoryPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddExpensePage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddIncomePage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddSavingsPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditCategoryPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditExpensePage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditncomePage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditSavingsPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Main.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddCategoryPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddExpensePage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddIncomePage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddSavingsPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditCategoryPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditExpensePage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditncomePage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditSavingsPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ExportDataPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Main.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\New_transaction.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\SettingsPageView.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.lref
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ExportDataPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\New_transaction.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\SettingsPageView.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\GuestPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Login.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\GuestPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Login.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Signup.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Signup.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\MainWindow.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\TipsAndTricksPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\TipsAndTricksPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.sourcelink.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Statistics.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Statistics.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\en-US\Presentation.resources.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\uk-UA\Presentation.resources.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Themes\Dark.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Themes\Light.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\App.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.Resources.en-US.resources
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.Resources.uk-UA.resources
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\en-US\Presentation.resources.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\uk-UA\Presentation.resources.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteCategoryPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteExpensesPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteIncomePage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteSavingsPage.g.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteCategoryPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteExpensesPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteIncomePage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteSavingsPage.baml
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\log4net.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.exe
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.deps.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\en-US\Presentation.resources.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\uk-UA\Presentation.resources.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\log4net.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BLL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\DAL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\BLL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\bin\Debug\net6.0-windows\DAL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Themes\Dark.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Themes\Light.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddCategoryPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddExpensePage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddIncomePage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddSavingsPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteCategoryPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteExpensesPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteIncomePage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteSavingsPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditCategoryPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditExpensePage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditncomePage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditSavingsPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ExportDataPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\GuestPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Login.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Main.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\New_transaction.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\SettingsPageView.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Signup.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Statistics.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\TipsAndTricksPage.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.lref
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\App.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddCategoryPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddExpensePage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddIncomePage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\AddSavingsPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteCategoryPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteExpensesPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteIncomePage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\DeleteSavingsPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditCategoryPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditExpensePage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditncomePage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\EditSavingsPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ExportDataPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\GuestPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Login.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Main.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\New_transaction.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\SettingsPageView.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Signup.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Statistics.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\TipsAndTricksPage.baml
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.g.resources
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.Resources.en-US.resources
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.Resources.uk-UA.resources
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.GenerateResource.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\en-US\Presentation.resources.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\uk-UA\Presentation.resources.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\refint\Presentation.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\Presentation\obj\Debug\net6.0-windows\ref\Presentation.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.exe
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.deps.json
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\log4net.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\BLL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\BLL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\bin\Debug\net6.0-windows\DAL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddActorWindow.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\DuberPage.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveActorPage.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RolesPage.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.lref
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddActorWindow.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\DuberPage.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveActorPage.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RolesPage.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.g.resources
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\refint\Presentation.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\ref\Presentation.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveProjectWindow.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveProjectWindow.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddProjectWindow.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddProjectWindow.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddRoleWindow.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddRoleWindow.baml
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveRolePage.g.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveRolePage.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.exe
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.deps.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.runtimeconfig.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\log4net.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\BLL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\BLL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\DAL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddActorWindow.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddProjectWindow.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddRoleWindow.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\DuberPage.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveActorPage.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveProjectWindow.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveRolePage.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RolesPage.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation_MarkupCompile.lref
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddActorWindow.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddProjectWindow.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\AddRoleWindow.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\DuberPage.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveActorPage.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveProjectWindow.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RemoveRolePage.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\RolesPage.baml
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.g.resources
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.AssemblyInfo.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.csproj.CopyComplete
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\refint\Presentation.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\Presentation.genruntimeconfig.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\obj\Debug\net6.0-windows\ref\Presentation.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Castle.Core.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\Moq.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll

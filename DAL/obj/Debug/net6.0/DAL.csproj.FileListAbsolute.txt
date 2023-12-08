@@ -1,0 +1,57 @@
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\DAL\obj\Debug\net6.0\ref\DAL.dll

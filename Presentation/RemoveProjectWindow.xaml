@@ -1,0 +1,32 @@
+﻿<Window x:Class="Presentation.RemoveProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation"
+        mc:Ignorable="d"
+        Title="Remove Project" Height="250" Width="400" Background="#222222">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Content="Enter project name:" Foreground="White" Margin="50, 0" FontSize="16" Height="30" FontWeight="Bold" />
+            <TextBox x:Name="RemoveProjectInput" Grid.Row="2" Margin="50, 5" Padding="5" VerticalAlignment="Center" HorizontalAlignment="Stretch"
+             Foreground="White" BorderBrush="White" Background="#333333"
+             FontSize="14" FontWeight="Bold" FontStyle="Italic" Opacity="0.8"
+             Text=""/>
+        </Grid>
+        <Button Grid.Row="1" Margin="0,0,0,13" Padding="5" MinWidth="150" VerticalAlignment="Bottom" HorizontalAlignment="Center"
+        Content="Remove Project" Background="#007acc" Foreground="White" FontSize="16" FontWeight="Bold"
+        Click="RemoveProjectButton_Click"/>
+    </Grid>
+</Window>

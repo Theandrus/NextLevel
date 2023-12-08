@@ -1,0 +1,110 @@
+﻿<Page x:Class="WpfApp1.DuberPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d"
+      d:DesignHeight="500" d:DesignWidth="450"
+      Title="DuberPage">
+
+    <Page.Resources>
+        <Style x:Key="DuberButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <DataTrigger Binding="{Binding IsActive}" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="Blue" />
+                            </DataTrigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation To="#710c99" Duration="0:0:0.4" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0:0:0.4" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                            <!-- Fade-in animation -->
+                            <EventTrigger RoutedEvent="Loaded">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:2"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden">
+        <ItemsControl  ItemsSource="{Binding Dubers}" x:Name="DuberListView">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <ToggleButton Content="{Binding Item1.ActorName}" VerticalAlignment="Center" FontSize="16">  <!--CommandParameter="{Binding Item1.RoleName}" Click="OnRole_Click"-->
+                            <ToggleButton.Style>
+                                <Style TargetType="ToggleButton">
+                                    <Setter Property="Foreground" Value="White" />
+                                    <Setter Property="Width" Value="250" />
+                                    <Setter Property="Margin" Value="5" />
+                                    <Setter Property="Height"  Value="50" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding Item2}" Value="True">
+                                            <Setter Property="Background" Value="Green" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding Item2}" Value="False">
+                                            <Setter Property="Background" Value="#FC6E5B" />
+                                        </DataTrigger>
+                                        <Trigger Property="IsChecked" Value="True">
+                                            <Setter Property="Background" Value="Blue" />
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ToggleButton.Style>
+                        </ToggleButton>
+                    </Grid>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <!--Style="{StaticResource DuberButtonStyle}"-->
+                <Button Content="Remove Actor" Grid.Column="0" Style="{StaticResource DuberButtonStyle}" Height="50" Command="{Binding DataContext.ToggleActiveCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}" BorderThickness="1"  CommandParameter="{Binding}" Click="RemoveActor_Click" />
+                <Button Content="Add Actor" Grid.Column="1" Style="{StaticResource DuberButtonStyle}" Height="50" Command="{Binding DataContext.ToggleActiveCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}" BorderThickness="1"  CommandParameter="{Binding}" Click="AddActor_Click" />
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>

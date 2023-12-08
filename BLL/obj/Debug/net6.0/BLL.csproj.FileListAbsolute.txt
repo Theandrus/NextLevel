@@ -1,0 +1,69 @@
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\DAL.dll
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\DAL.pdb
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\LNU\5 семестр\Програмна інженерія\проект\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\BLL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.pdb
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\MYB-Manage-Your-Budget-\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\BLL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\BLL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\IT\commercial\help04.12.2023\Cutsubs\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\BLL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\BLL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\DAL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\bin\Debug\net6.0\DAL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.pdb
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\IT\commercial\HOPEFULLY_LAST\Cutsubs\Cutsubs\BLL\obj\Debug\net6.0\ref\BLL.dll

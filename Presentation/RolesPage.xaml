@@ -1,0 +1,89 @@
+﻿<Page x:Class="WpfApp1.RolesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d"
+      d:DesignHeight="500" d:DesignWidth="450"
+      Title="RolesPage">
+
+    <Page.Resources>
+        <Style x:Key="RolesButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <DataTrigger Binding="{Binding IsActive}" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="Blue" />
+                            </DataTrigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation To="#710c99" Duration="0:0:0.4" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0:0:0.4" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="60" />
+            </Grid.RowDefinitions>
+
+            <ItemsControl Grid.Row="0" ItemsSource="{Binding Roles}" x:Name="RolesListView">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*" />
+                                <ColumnDefinition Width="4*" />
+                                <ColumnDefinition Width="4*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="volume.png" Grid.Column="0" Stretch="Uniform" Width="20" Height="20" />
+                            <TextBlock Text="{Binding Item1.RoleName}" Grid.Column="1" VerticalAlignment="Center" FontSize="16" Foreground="White" Margin="0,10">
+                            </TextBlock>
+                            <TextBlock Text="{Binding Item2.ActorName}" Grid.Column="2" VerticalAlignment="Center" FontSize="16" Foreground="White" Margin="0,10">
+                            </TextBlock>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Button Content="Remove Role" Grid.Column="0" Style="{StaticResource RolesButtonStyle}" Height="50" Command="{Binding DataContext.ToggleActiveCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}" BorderThickness="1"  CommandParameter="{Binding}" Click="RemoveRole_Click" Margin="5,5" VerticalAlignment="Bottom" />
+                <Button Content="Add Role" Grid.Column="1" Style="{StaticResource RolesButtonStyle}" Height="50" Command="{Binding DataContext.ToggleActiveCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}" BorderThickness="1"  CommandParameter="{Binding}" Click="AddRole_Click" Margin="5,5" VerticalAlignment="Bottom" />
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+</Page>
