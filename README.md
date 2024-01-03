@@ -4,6 +4,10 @@ The goal of project is to ease managing the company of dubers. The Anime Dub Man
 
 ## The project development team includes:
 Yurii Lytvynenko
+
 Vitaliy Turko
+
 Andriy Kotyk
+
 Sviatoslav Dzikovskiy
+
